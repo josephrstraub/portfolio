@@ -1,5 +1,8 @@
 # portfolio
 
+portfolio site:
+https://josephrstraub.github.io/portfolio/
+
 here is some of my work
 
 https://github.com/josephrstraub/baseball-prediction
