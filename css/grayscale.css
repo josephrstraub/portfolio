@@ -10,6 +10,10 @@ body {
   color: white;
   background-color: black;
 }
+.project-screenshot {
+  height: 200px;
+  margin-bottom: 10px;
+}
 .modal-window {
   height: 90vh;
 }
@@ -131,7 +135,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/2/2a/Mission_Mountains_National_Bison_Range_Montana.jpg) no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
