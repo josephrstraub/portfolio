@@ -1,9 +1,9 @@
 {
-  "name": "grayscale",
-  "title": "Grayscale",
+  "name": "Portfolio",
+  "title": "Portfolio",
   "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/grayscale",
-  "author": "Start Bootstrap",
+  "homepage": "https://josephrstraub.github.io/portfolio/",
+  "author": "Joseph Straub",
   "license": {
     "type": "MIT",
     "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
