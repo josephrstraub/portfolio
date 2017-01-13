@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Grayscale v3.3.7+1 (http://startbootstrap.com/template-overviews/grayscale)
- * Copyright 2013-2016 Start Bootstrap
+ * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
@@ -12,7 +12,6 @@ body {
 }
 .project-screenshot {
   height: 200px;
-  margin-bottom: 10px;
 }
 .modal-window {
   height: 90vh;
@@ -322,4 +321,30 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
+}
+.thumbnail > img {
+  height: 200px;
+}
+.project-name {
+  margin-bottom: 14px;
+  font-size: 1.4em;
+}
+.project-description {
+  font-size: 1em;
+  text-align: left;
+}
+.wrklab {
+  color: #FF1FA9;
+}
+.blackjack {
+  color: #00BCD4;
+}
+.try-angle {
+  color: #6798CD;
+}
+.word-game {
+  color: #DFC7A5;
+}
+.btn-source-code {
+  margin-top: 10px;
 }
