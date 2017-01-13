@@ -1,6 +1,6 @@
 /*!
- * Start Bootstrap - Grayscale v3.3.7+1 (http://startbootstrap.com/template-overviews/grayscale)
- * Copyright 2013-2017 Start Bootstrap
+ * Start Bootstrap - Portfolio v3.3.7+1 (https://josephrstraub.github.io/portfolio/)
+ * Copyright 2013-2017 Joseph Straub
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
@@ -323,28 +323,28 @@ body {
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
 }
 .thumbnail > img {
-  height: 200px;
+  height: 200px !important;
 }
 .project-name {
-  margin-bottom: 14px;
-  font-size: 1.4em;
+  margin-bottom: 14px !important;
+  font-size: 1.4em !important;
 }
 .project-description {
-  font-size: 1em;
-  text-align: left;
+  font-size: 1em !important;
+  text-align: left !important;
 }
 .wrklab {
-  color: #FF1FA9;
+  color: #FF1FA9 !important;
 }
 .blackjack {
-  color: #00BCD4;
+  color: #00BCD4 !important;
 }
 .try-angle {
-  color: #6798CD;
+  color: #6798CD !important;
 }
 .word-game {
-  color: #DFC7A5;
+  color: #DFC7A5 !important;
 }
 .btn-source-code {
-  margin-top: 10px;
+  margin-top: 10px !important;
 }
