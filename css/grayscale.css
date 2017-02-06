@@ -134,7 +134,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(https://upload.wikimedia.org/wikipedia/commons/2/2a/Mission_Mountains_National_Bison_Range_Montana.jpg) no-repeat bottom center scroll;
+  background: url(../img/laptop.jpeg) no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -228,6 +228,10 @@ a:focus {
   }
 }
 .content-section {
+  padding-top: 100px;
+}
+#about,
+#contact {
   padding-top: 100px;
 }
 .download-section {
@@ -330,8 +334,9 @@ body {
   font-size: 1.4em !important;
 }
 .project-description {
-  font-size: 1em !important;
+  font-size: .85em !important;
   text-align: left !important;
+  margin-bottom: 20px !important;
 }
 .wrklab {
   color: #FF1FA9 !important;
