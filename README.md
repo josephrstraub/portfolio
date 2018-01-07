@@ -9,6 +9,4 @@ https://github.com/josephrstraub/blackjack
 
 https://github.com/josephrstraub/wrklab
 
-https://github.com/bheptin/Try-Angle
-
 https://github.com/josephrstraub/word-game
